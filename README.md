@@ -1,1 +1,1 @@
-# https-github.com-mansiue228070-Insurance-Insights-Dashboard
+# edutech dashboard
